@@ -9,7 +9,7 @@
   <img src="https://media.tenor.com/52PIRaJ_7JQAAAAC/starwars-starwars-saga.gif">
 </p>
 
-<p>Sim eu sou um apaixonado por Star Wars...</p>
+<p align=center>Sim eu sou apaixonado por Star Wars...</p>
 
 ## Tecnologias que uso:
 
