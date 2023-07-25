@@ -13,7 +13,7 @@
 
 ## Tecnologias que uso:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=40 heigth=40/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=40 heigth=40/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width=40 heigth=40/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width=40 heigth=40/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=40 heigth=40/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=40 heigth=40/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width=40 heigth=40/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width=40 heigth=40/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width=40 heigth=40/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width=40 heigth=40/>
 
 ## Contatos:
 
@@ -28,6 +28,7 @@
 <div>
 <a href="https://github.com/GusOTavo">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GusOTavo&layout=compact&langs_count=7&theme=omni"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GusOTavo&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
 </div>
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GusOTavo&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+</div> -->
 
