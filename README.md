@@ -2,8 +2,8 @@
 
 ## Bem vindo ao meu perfil GitHub 👋🏾
 
-<p>Tenho 21 anos e atualmente estou em transição de carreira! 🌟</p>
-<p>Em 2022 decidi mudar de área, e por ter um enorme interesse em tecnologia decidi migrar para a programação. Desde então, estou fazendo cursos principalmente sobre Front-End, com foco em HTML, CSS e JavaScript (React e Node.js). Gosto muito de aprender, e pretendo manter o foco para adquirir mais conhecimento ao longo da minha jornada.</p>
+<p>Tenho 22 anos e atualmente estou em transição de carreira! 🌟</p>
+<p>Em 2022 decidi mudar de área, e por ter um enorme interesse em tecnologia decidi migrar para a programação. Desde então, estou fazendo cursos principalmente sobre Análise e Ciência de Dados, com foco em Python! Também possuo cursos em Front-End, com foco em HTML, CSS e JavaScript (React e Node.js). Gosto muito de aprender, e pretendo manter o foco para adquirir mais conhecimento ao longo da minha jornada.</p>
 
 <p align=center>
   <img src="https://media.tenor.com/52PIRaJ_7JQAAAAC/starwars-starwars-saga.gif">
@@ -13,7 +13,7 @@
 
 ## Tecnologias que uso:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=40 heigth=40/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=40 heigth=40/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width=40 heigth=40/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width=40 heigth=40/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width=40 heigth=40/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width=40 heigth=40/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width=40 heigth=40/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" width=40 heigth=40/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width=40 heigth=40/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width=40 heigth=40/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=40 heigth=40/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=40 heigth=40/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width=40 heigth=40/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width=40 heigth=40/>
 
 ## Contatos:
 
