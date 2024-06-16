@@ -1,21 +1,22 @@
-# Olá, me chamo Gustavo! 👨🏾‍💻
+# Hello there, I am Gustavo! 👨🏽‍💻
 
-## Bem vindo ao meu perfil GitHub 👋🏾
+## Welcome to my GitHub Profile 👋🏽
 
-<p>Tenho 22 anos e atualmente estou em transição de carreira! 🌟</p>
-<p>Em 2022 decidi mudar de área, e por ter um enorme interesse em tecnologia decidi migrar para a programação. Desde então, estou fazendo cursos principalmente sobre Análise e Ciência de Dados, com foco em Python! Também possuo cursos em Front-End, com foco em HTML, CSS e JavaScript (React e Node.js). Gosto muito de aprender, e pretendo manter o foco para adquirir mais conhecimento ao longo da minha jornada.</p>
+<p align = justify>In 2022, I decided to change fields, and due to my enormous interest in technology, I decided to migrate to programming. To my delight, in 2024, I was accepted into the Computer Science program at UNICAMP (University of Campinas). Since then, I have been taking courses primarily on Data Analysis and Data Science, focusing on Python, always seeking to improve my knowledge about the market and the technologies involved, in addition to my studies at the university. I also have courses in Front-End and Web Development, focusing on HTML, CSS, and JavaScript (React).</p>
+  
+<p align = justify>I really enjoy learning, and I intend to stay focused to acquire more knowledge along my journey. 🌟</p>
 
 <p align=center>
   <img src="https://media.tenor.com/52PIRaJ_7JQAAAAC/starwars-starwars-saga.gif">
 </p>
 
-<p align=center>E sim, eu sou apaixonado por Star Wars...</p>
+<p align=center>And I am also a big Star Wars fan......</p>
 
-## Tecnologias que uso:
+## Skills and Tools:
 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width=40 heigth=40/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" width=40 heigth=40/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width=40 heigth=40/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width=40 heigth=40/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width=40 heigth=40/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=40 heigth=40/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=40 heigth=40/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width=40 heigth=40/>
 
-## Contatos:
+## How to reach me:
 
 <div>
 <a href="https://www.linkedin.com/in/gustavo-henrique-l-m-de-sousa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
