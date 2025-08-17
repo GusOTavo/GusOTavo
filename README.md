@@ -3,6 +3,8 @@
 ## Welcome to my GitHub Profile 👋🏽
 
 <p align = justify>In 2022, I decided to change fields, and due to my enormous interest in technology, I decided to migrate to programming. To my delight, in 2024, I was accepted into the Computer Science program at UNICAMP (University of Campinas). Since then, I have been taking courses primarily on Data Analysis and Data Science, focusing on Python and SQL, always seeking to improve my knowledge about the market and the technologies involved, in addition to my studies at the university.</p>
+
+<p align = justify>In 2025, I developed a strong interest in Artificial Intelligence, particularly in the field of Computer Vision and related areas. Since then, I have been dedicating myself to studying and exploring these subjects in depth, as they have captured my full attention. Over the next years, I intend to focus my studies and research on this area, aiming to strengthen my knowledge and skills in Artificial Intelligence.</p>
   
 <p align = justify>I really enjoy learning, and I intend to stay focused to acquire more knowledge along my journey. 🌟</p>
 
